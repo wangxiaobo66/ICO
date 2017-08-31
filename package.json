@@ -1,0 +1,14 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "devDependencies": {
+    "co-views": "^2.1.0",
+    "gulp": "^3.9.1",
+    "koa": "^2.3.0",
+    "koa-body": "^2.3.0",
+    "koa-router": "^7.2.1",
+    "koa-static-cache": "^5.1.1",
+    "path": "^0.12.7",
+    "swig": "^1.4.2"
+  }
+}
